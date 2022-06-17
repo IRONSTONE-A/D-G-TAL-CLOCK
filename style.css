@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    color: #1AC5F3;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    letter-spacing: 8px;
+}
