@@ -3,8 +3,9 @@
 
 ### I used;
   - <b>HTML</b>
+  - <b>CSS</b>
   - <b>JavaScript</b>
-  -
+  
 
 
 
